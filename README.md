@@ -1,5 +1,5 @@
 # Hacker News Proj
-This simple web scraping project shows latest Hacker News stories (and their links) in your machine. For now, can only filter by votes.
+This is a web scraping project that shows you latest Hacker News stories (and their links) in your terminal. The program was made on Zero to Mastery Python course and upgraded by me to have a customizable filter.
 
 ## Installation
 This program requires python3 installed. On python3 terminal, run: 'python install -r requirements.txt'
